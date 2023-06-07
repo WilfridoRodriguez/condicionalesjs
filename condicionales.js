@@ -1,4 +1,4 @@
-// EJERCICIO 1
+// EJERCICIO 1 hols
 //var variable1 = 25
 // var variable2 = 5
 
@@ -133,4 +133,4 @@
 
 // else if(dia == 7){
 //   console.log('7 es domingo')
-// }
+// 
